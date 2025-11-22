@@ -1,0 +1,277 @@
+[33m[nodemon] 3.1.11[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): src/**/*[39m
+[33m[nodemon] watching extensions: ts,tsx,js,jsx[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.5s
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.8s
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.8s
+ ○ Compiling / ...
+ ✓ Compiled / in 8.2s (799 modules)
+ GET / 200 in 8823ms
+ ⚠ Found a change in next.config.ts. Restarting the server to apply the changes...
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1817ms
+ ○ Compiling / ...
+ ✓ Compiled / in 4.8s (799 modules)
+ GET / 200 in 5212ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1972ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 2s
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1977ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 2s
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1955ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.1s
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1910ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 2s
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1914ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.2s (781 modules)
+ GET / 200 in 2576ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1850ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.3s (779 modules)
+ GET / 200 in 2692ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1960ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 2s
+ ○ Compiling / ...
+ ✓ Compiled / in 2.4s (781 modules)
+ GET / 200 in 2724ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1974ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.4s
+ ○ Compiling / ...
+ ✓ Compiled / in 2.2s (781 modules)
+ GET / 200 in 2541ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1885ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.4s (781 modules)
+ GET / 200 in 2744ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.1s
+ ○ Compiling / ...
+ ✓ Compiled / in 2.3s (781 modules)
+ GET / 200 in 2629ms
+ ✓ Compiled /_not-found in 434ms (771 modules)
+ GET /assets/images/abhijeet.jpg 404 in 590ms
+ GET /assets/images/abhijeet.jpg 404 in 45ms
+ GET /assets/images/abhijeet.jpg 404 in 58ms
+ GET /assets/images/abhijeet.jpg 404 in 57ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1885ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.3s (781 modules)
+ GET / 200 in 2667ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1879ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.2s (781 modules)
+ GET / 200 in 2550ms
+ ✓ Compiled /_not-found in 358ms (771 modules)
+ GET /assets/images/abhijeet.jpg 404 in 509ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1957ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.2s (781 modules)
+ GET / 200 in 2592ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1897ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1858ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.1s (781 modules)
+ GET / 200 in 2523ms
+ ✓ Compiled /_not-found in 394ms (771 modules)
+ GET /assets/images/abhijeet.jpg 404 in 552ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1945ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.2s (781 modules)
+ GET / 200 in 2519ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1920ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `next dev -p 3000`[39m
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.9:3000
+
+ ✓ Starting...
+ ✓ Ready in 1879ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.2s (781 modules)
+ GET / 200 in 2587ms
